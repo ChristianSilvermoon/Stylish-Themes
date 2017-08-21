@@ -1,0 +1,49 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("derpibooru.org") {
+	/*
+	DerpiBooru Interface Tweak by Christian "Krissy" Silvermoon
+	v16.8.28
+	*/
+	
+	.header {
+		top: 8px;
+		position: fixed;
+		overflow: hidden;
+		left: -96%;
+		outline: 4px; 
+		outline-style: outset;
+		outline-color: #00A7FF;
+		opacity: 0.4;
+		transition: .50s ease-in-out;
+		z-index: 48; 
+	}
+	
+	.header:hover {
+		opacity: 1;
+		overflow: visible;
+		outline-style: none;
+		transition: .50s ease-in-out;
+		border-radius: 6px;
+		left: 0px;
+		z-index: 51;
+	}
+	
+	.header--secondary {
+		position: fixed;
+		top: 52px;
+		opacity: 0.4;
+		overflow: visible;
+		z-index: 48;
+		transition: .25s ease-in-out;
+	}
+	
+	.header--secondary:hover {
+		top: 52px;
+		opacity: 1;
+		overflow: visible;
+		z-index: 48;
+		transition: .25s ease-in-out;
+	}
+
+}
