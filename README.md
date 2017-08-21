@@ -11,7 +11,7 @@ If thee theme affects multiple sites (unlikely), then the top folder may simply 
 So in short
 `Company or Site/Theme Name/Version.css`
 
-##List of themes
+## List of themes
 
 | Status | Theme Name | Latest Version | Website(s) Effected |
 | :---: | :----------------------: | :----------: | :-----------: |
