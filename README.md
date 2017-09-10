@@ -6,7 +6,7 @@ Themes are organized into folders named the site, then theme name. Each theme is
 Example:
 A version of a theme "Pickletastic" for http://example.com released on April 1st, 2016 would be stored as `example.com/Pickletastic/v16.04.1.css`
 
-If thee theme affects multiple sites (unlikely), then the top folder may simply be named after the site owner (Example instead of example.com would be multiple example-owned websites) `Example/Pickletastic/v16.04.1.css`
+If the theme affects multiple sites (unlikely), then the top folder may simply be named after the site owner (Example instead of example.com would be multiple example-owned websites) `Example/Pickletastic/v16.04.1.css`
 
 So in short
 `Company or Site/Theme Name/Version.css`
