@@ -1,0 +1,49 @@
+@-moz-document url-prefix("http://blog.linuxmint.com/"), url-prefix("https://blog.linuxmint.com/") {
+
+/* Flat's Not Elegant v11.14.17
+	Theme by: Chrstian "Krissy" Silvermoon
+
+   Affects: 
+		http://blog.linuxmint.com
+		https://blog.linuxmintcom
+*/
+
+#masthead { 
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3a3a3a+0,0a0a0a+100 */
+	background: #3a3a3a; /* Old browsers */
+	background: -moz-linear-gradient(top,  #3a3a3a 0%, #0a0a0a 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #3a3a3a 0%,#0a0a0a 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #3a3a3a 0%,#0a0a0a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a3a3a', endColorstr='#0a0a0a',GradientType=0 ); /* IE6-9 */
+}
+
+#main-sidebar, #secondary {
+	background-color: black;
+}
+
+#primary {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#666666+0,ffffff+100 */
+	background: linear-gradient(to bottom,  #ffffff 80%, #B2B2B2 100%) fixed;
+}
+
+body.custom-background {
+	background: linear-gradient(to bottom, #87c747 0% ,#5e7553 100%) fixed; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+
+#url, #email, #author, #comment {
+	border: 3px solid gray;
+}
+
+#url:focus, #email:focus, #author:focus, #comment:focus {
+	border: 3px solid #87c747!important;
+}
+
+.nav-links, #nav-next {
+	background: linear-gradient(to right, #3699dc 0%,#246e91 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.avatar {
+	border: 3px outset #87c747!important;
+}
+}
