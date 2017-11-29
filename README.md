@@ -15,6 +15,6 @@ So in short
 
 | Status | Theme Name | Latest Version | Website(s) Effected |
 | :---: | :----------------------: | :----------: | :-----------: |
-| Maintained | Furaffinity Moon Glass | v17.04.21 | http://furaffinity.net |
+| Maintained | Furaffinity Moon Glass | v17.11.29 | http://furaffinity.net |
 | Maintained | Flat's Not Elegant | v17.11.14 | http://blog.linuxmint.com |
 | Discontinued | DerpiTab | v16.8.28 | http://derpibooru.org |
