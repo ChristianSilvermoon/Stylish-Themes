@@ -1,5 +1,8 @@
 # Stylish-Themes
-Collection of [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) Themes created/maintained by myself
+Collection of User Styles created/maintained by myself
+
+I do **NOT** recommend the use of Stylish, as it has been reported to have been recording all URLs visited by Users.
+Please ignore any comments suggesting the use of Stylish!
 
 Themes are organized into folders named the site, then theme name. Each theme is a `.css` file named after the version number
 
